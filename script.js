@@ -1,1 +1,1 @@
-alert('fiz alertas')
+document.addEventListener('DOMContentLoaded', alert('fiz alertas')); 
